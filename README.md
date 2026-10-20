@@ -1,1 +1,2 @@
-# Studi-Kasus-1-Data-Analytics-Analisis-Tingkat-Churn-Pelanggan-Menggunakan-Metodologi-CRISP-DM
+# Studi Kasus 1 Data Analytics Analisis Tingkat Churn Pelanggan Menggunakan Metodologi CRISP-DM
+Program ini merupakan simulasi alur data science berbasis Python yang dirancang untuk mengatasi data traps—seperti penghapusan data duplikat, penanganan nilai hilang, dan koreksi anomali bisnis—sebelum melakukan pemodelan prediktif. Dengan menerapkan alur CRISP-DM, program ini memproses data transaksi mentah menjadi analisis prediktif dan memberikan rekomendasi keputusan bisnis secara preskriptif.
